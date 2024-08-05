@@ -1,8 +1,8 @@
 # 🚀 Mini-Framework
 
 ##  Special thanks to:
-Rodrigo Pombo
-```https://pomb.us/build-your-own-react/```
+Rodrigo Pombo  
+[Build Your Own React](https://pomb.us/build-your-own-react/)
 
 Welcome to Mini-Framework, a lightweight and powerful JavaScript framework for building modern web applications. Designed with simplicity and performance in mind, Mini-Framework empowers developers to create dynamic, responsive, and efficient web experiences.
 
